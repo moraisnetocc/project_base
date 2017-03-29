@@ -1,0 +1,12 @@
+
+.env
+*.DS_Store
+*.py[cod]
+*.sqlite3
+
+env/
+.idea/
+/media/
+/statics/
+/staticfiles/
+!/staticfiles/js/
