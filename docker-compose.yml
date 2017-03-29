@@ -4,9 +4,9 @@ services:
   db:
     image: postgres:9.6
     environment:
-      - POSTGRES_PASSWORD=guiaacherapido_django
-      - POSTGRES_USER=guiaacherapido_django
-      - POSTGRES_DB=guiaacherapido_django
+      - POSTGRES_PASSWORD=project_base
+      - POSTGRES_USER=project_base
+      - POSTGRES_DB=project_base
     ports:
       - "9000:5432"
   web:
