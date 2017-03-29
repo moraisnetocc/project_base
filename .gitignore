@@ -7,6 +7,6 @@
 env/
 .idea/
 /media/
-/statics/
+/static/
 /staticfiles/
 !/staticfiles/js/
